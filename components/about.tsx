@@ -15,7 +15,7 @@ const About = () => {
             <Image src="/Image/review1.png" alt='Review' width={200} height={220} className='pl-9' />
             <div className='pl-8'>
             <h2 className='text-3xl font-bold text-[#1e1e1dea]'>Hamza Faizi</h2>
-            <p className='text-[#8B8E99] pt-1 font-[600] text-base pr-3'>Don't waste time, just order! This is the best website to purchase smart watches.</p>
+            <p className='text-[#8B8E99] pt-1 font-[600] text-base pr-3'>Do not waste time, just order! This is the best website to purchase smart watches.</p>
             
             <span className='flex text-xl pt-1'>
               <FaStar />
@@ -32,7 +32,7 @@ const About = () => {
           <Image src="/Image/review2.png" alt='Review' width={200} height={220}  className='pl-9'/>
           <div className='pl-8'>
             <h2 className='text-3xl font-bold text-[#1e1e1dea]'>Hafiz Huzaifa</h2>
-            <p className='text-[#8B8E99] pt-1 font-[600] text-base pr-3'>I've been purchasing smart watches of Mohid for a long time. All the products are good quality</p>
+            <p className='text-[#8B8E99] pt-1 font-[600] text-base pr-3'>I have been purchasing smart watches of Mohid for a long time. All the products are good quality</p>
            
             <span className='flex text-xl pt-1'>
               <FaStar />

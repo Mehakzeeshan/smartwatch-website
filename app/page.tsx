@@ -4,7 +4,7 @@ import Brands from "@/components/brands";
 import Products from "@/components/products";
 import About from "@/components/about";
 import Contact from "@/components/contact";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
