@@ -4,12 +4,12 @@ import { FaStar, FaCircle } from 'react-icons/fa';
 
 const About = () => {
   return (
-    <section className="h-[600px] mt-16 pt-16" id="about">
+    <section className="h-[750px] mt-16 pt-16" id="about">
         <p className='text-[#3858D6] text-center font-semibold text-lg'>Here are our some of the best clients.</p>
         <h2 className='text-center text-[40px] font-[799] text-[#1E1D1D] mt-2'>What People Say About Us</h2>
 
 
-        <div className='grid grid-cols-2 gap-14 h-[250px] w-[1050px] mt-12 mx-[150px]'>
+        <div className='grid grid-cols-1 md:grid-cols-2 gap-14 md:h-[250px] md:w-[1050px] mt-12 md:mx-[150px] mx-5'>
           
           <div className='box1 bg-[#f5f5f5] rounded-3xl flex items-center'>
             <Image src="/Image/review1.png" alt='Review' width={200} height={220} className='pl-9' />
