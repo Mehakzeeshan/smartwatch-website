@@ -11,11 +11,11 @@ const Contact = () => {
 
             <h1 className='md:text-4xl text-2xl  font-bold text-[#1E1D1D]'>Subscribe To Newsletter</h1>
             <p className='text-[#8B8E99] mt-2 font-semibold'>Get free guide about smart watches daily.</p>
-                <span className="bg-[#FFFFFF] md:h-14 mt-5 flex items-center rounded-lg shadow-md max-w-[425px] w-full">
+                <span className="bg-[#FFFFFF] md:h-14 mt-5 flex items-center rounded-lg shadow-md md:max-w-[425px] w-full">
                 <input 
                 type='text'
                 placeholder='Enter Email Address'
-                className='bg-transparent outline-none text-[#8B8E99] flex-grow pl-7 font-medium font-sans'
+                className='bg-transparent outline-none text-[#8B8E99] flex-grow pl-7 md:font-medium font-sans'
                 />
                 <button className='text-[#FFFFFF] bg-blue-700 mx-1 rounded-lg md:h-11 md:w-[130px] font-semibold my-1 md:mx-2'>Subscribe</button>
                 </span> 
@@ -24,7 +24,7 @@ const Contact = () => {
 
             <div className='image md:ml-16 md:pl-16 my-2'>
                 <Image src="/Image/product1.png" alt='Apple Smartwatch' width={280} height={280}
-                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[200px] w-[200px] ml-16'/>
+                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[150px] w-[150px] ml-16'/>
             </div>
         </div>
 
