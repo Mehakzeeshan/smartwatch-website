@@ -24,7 +24,7 @@ const Contact = () => {
 
             <div className='image md:ml-16 md:pl-16 my-2'>
                 <Image src="/Image/product1.png" alt='Apple Smartwatch' width={280} height={280}
-                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[200px] w-[200px] ml-16'/>
+                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[150px] w-[150px] ml-16'/>
             </div>
         </div>
 

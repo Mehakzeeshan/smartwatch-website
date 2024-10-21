@@ -13,7 +13,7 @@ const Products = () => {
         <h1 className='text-center text-[40px] font-bold text-[#1E1D1D]'>Our Latest Products</h1>
       
 
-    <div className='row1 md:flex mt-14 justify-evenly mx-16'>
+    <div className='row1 md:flex mt-14 justify-evenly md:mx-16'>
    
       <div>
        <div className='box1 bg-[#f5f5f5] hover:bg-[#F8F8F8] w-[340px] h-[340px] flex mt-12' >
