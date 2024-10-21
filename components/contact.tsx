@@ -17,14 +17,14 @@ const Contact = () => {
                 placeholder='Enter Email Address'
                 className='bg-transparent outline-none text-[#8B8E99] flex-grow pl-7 font-medium font-sans'
                 />
-                <button className='text-[#FFFFFF] bg-blue-700 mx-1 rounded-lg h-11 w-[130px] font-semibold my-1 md:mx-2'>Subscribe</button>
+                <button className='text-[#FFFFFF] bg-blue-700 mx-1 rounded-lg md:h-11 md:w-[130px] font-semibold my-1 md:mx-2'>Subscribe</button>
                 </span> 
 
             </div>
 
             <div className='image md:ml-16 md:pl-16 my-2'>
                 <Image src="/Image/product1.png" alt='Apple Smartwatch' width={280} height={280}
-                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[150px] w-[150px] ml-16'/>
+                 className='md:ml-5 md:h-[300px] md:w-[300px] h-[200px] w-[200px] ml-16'/>
             </div>
         </div>
 
