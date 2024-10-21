@@ -7,7 +7,7 @@ const Contact = () => {
     <div className='h-[380px] md:w-[1050px]  bg-[#F5F5F5] md:mx-[150px] rounded-3xl mx-6'>
 
         <div className='main-item md:flex items-center pt-6  md:mx-8 mx-8'>
-            <div className='paragraph md:pl-14 px-6'>
+            <div className='paragraph md:pl-14 md:px-6'>
 
             <h1 className='md:text-4xl text-2xl  font-bold text-[#1E1D1D]'>Subscribe To Newsletter</h1>
             <p className='text-[#8B8E99] mt-2 font-semibold'>Get free guide about smart watches daily.</p>
