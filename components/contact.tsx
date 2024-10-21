@@ -11,11 +11,11 @@ const Contact = () => {
 
             <h1 className='md:text-4xl text-2xl  font-bold text-[#1E1D1D]'>Subscribe To Newsletter</h1>
             <p className='text-[#8B8E99] mt-2 font-semibold'>Get free guide about smart watches daily.</p>
-                <span className="bg-[#FFFFFF] md:h-14 mt-5 md:flex sm:flex md:items-center rounded-lg shadow-md md:max-w-[425px] md:w-full">
+                <span className="bg-[#FFFFFF] md:h-14 mt-5 flex md:items-center rounded-lg shadow-md md:max-w-[425px] md:w-full">
                 <input 
                 type='text'
                 placeholder='Enter Email Address'
-                className='bg-transparent outline-none text-[#8B8E99] flex-grow md:pl-7 md:font-medium font-sans'
+                className='bg-transparent outline-none text-[#8B8E99] flex-grow md:pl-7 md:font-medium font-sans text-sm'
                 />
                 <button className='text-[#FFFFFF] bg-blue-700 mx-1 rounded-lg md:h-11 md:w-[130px] font-semibold my-1 md:mx-2'>Subscribe</button>
                 </span> 
